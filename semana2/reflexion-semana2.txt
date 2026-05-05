@@ -1,0 +1,1 @@
+porque permite trabajar de forma m s r pida y eficiente. Con la terminal se pueden navegar carpetas, crear archivos y organizar proyectos sin necesidad de usar solo interfaces gr ficas. Adem s, muchas herramientas de programaci¢n funcionan directamente desde la terminal, lo que facilita el desarrollo. Tambi‚n ayuda a automatizar tareas repetitivas, ahorrando tiempo.

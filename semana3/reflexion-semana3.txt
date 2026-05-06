@@ -1,0 +1,10 @@
+Respuesta:
+Es importante que los proyectos de software mantengan un registro de cambios porque permite llevar un control claro de todo lo que se modifica en el c¢digo.
+Herramientas como Git ayudan a guardar un historial detallado de cada cambio realizado.
+Esto facilita detectar errores y volver a versiones anteriores cuando algo falla.
+Tambi‚n permite que varias personas trabajen en el mismo proyecto sin conflictos.
+Cada desarrollador puede hacer cambios sin afectar directamente el trabajo de otros.
+Adem s, mejora la organizaci¢n y la colaboraci¢n en equipos de trabajo.
+El registro de cambios permite entender qu‚ se hizo, cu ndo y por qui‚n.
+Esto es £til para mantener el proyecto ordenado y documentado.
+En general, usar Git hace el desarrollo m s seguro, eficiente y profesional.
